@@ -1,4 +1,4 @@
 # weather-app
 To know weather of your location
 
-Access the Web app [here](https://nirav-weather-application.herokuapp.com/)
+Access the Web Application [here](https://nirav-weather-application.herokuapp.com/)
